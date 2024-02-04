@@ -1,2 +1,2 @@
 # learningGit
-this is only for the learning purpose..
+this is only for the learning purpose...
